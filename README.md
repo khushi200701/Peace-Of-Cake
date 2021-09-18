@@ -1,2 +1,3 @@
-# meditation-app
-Meditation app tutorial
+# Meditation App
+### For a Peaceful mind
+
