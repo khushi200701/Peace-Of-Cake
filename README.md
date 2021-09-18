@@ -1,1 +1,2 @@
-# Peace-Of-Cake
+# meditation-app
+Meditation app tutorial
