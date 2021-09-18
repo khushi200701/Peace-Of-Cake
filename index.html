@@ -9,6 +9,15 @@
 </head>
 <body>
  <div class="app">
+
+  <div class="vid-container">
+   <video loop>
+    <source src="./video/rain.mp4" type="video/mp4"/>
+   </video>
+  </div>
+
+
+
   <div class="time-select">
    <button data-time="120">2 Minutes</button>
    <button data-time="300">5 Minutes</button>
@@ -30,8 +39,8 @@
    <h3 class="time-display">0:00</h3>
   </div>
   <div class="sound-picker">
-   <button data-sound="./sounds/rain"><img src="./svg/rain.svg"></button>
-   <button data-sound="./sounds/beach"><img src="./svg/beach.svg"></button>
+   <button data-sound="./sounds/rain.mp3" data-video="./video/sounds/rain.mp4"><img src="./svg/rain.svg"></button>
+   <button data-sound="./sounds/beach.mp3" data-video="./video/sounds/beach.mp4"><img src="./svg/beach.svg"></button>
   </div>
  </div>
 
